@@ -13,3 +13,7 @@ munkres
 tqdm
 torch
 torchvision
+tensorboard
+onnx
+onnxruntime
+onnxsim
